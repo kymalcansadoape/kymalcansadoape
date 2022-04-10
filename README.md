@@ -5,7 +5,7 @@
  -->
 - 🏫 A Computer Engineering Student at Tecnological Univeristy of the Philippines - Visayas
 - 💻 An Aspiring FullStack Software Developer
-- 🧑‍💻 Web Developer Intern at <a href="https://pocketdevs.ph">Pocketdevs</a>
+- 🧑‍💻 Web Developer Intern at <a href="https://pocketdevs.ph" target="_blank">Pocketdevs</a>
 - 👯 I’m currently learning Frontend Development
 - 💬 Ask me anything 
 - 📫 How to reach me: kymalcansadoape@gmail.com
