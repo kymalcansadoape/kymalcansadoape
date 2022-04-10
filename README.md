@@ -12,4 +12,4 @@
 - 😄 Pronouns: his/him
 - ⚡ Fun fact: I love to go to the beach 🏖 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kymalcansadoape&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kymalcansadoape&show_icons=true&theme=onedark)
