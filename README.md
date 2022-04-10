@@ -7,7 +7,7 @@
 - 💻 An Aspiring FullStack Software Developer
 - 🧑‍💻 Web Developer Intern at <a href="pocketdevs.ph">Pocketdevs</a>
 - 👯 I’m currently learning Frontend Development
-- 💬 Ask me about anything 
+- 💬 Ask me anything 
 - 📫 How to reach me: kymalcansadoape@gmail.com
 - 😄 Pronouns: his/him
 - ⚡ Fun fact: I love to go to the beach 🏖 
