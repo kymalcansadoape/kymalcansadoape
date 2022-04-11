@@ -2,7 +2,7 @@
 <!-- **kymalcansadoape/kymalcansadoape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
  
-- 🏫 A 2nd Year Computer Engineering Student at Tecnological Univeristy of the Philippines - Visayas
+- 🏫 A 2nd Year Computer Engineering Student at the Technological Univeristy of the Philippines - Visayas
 - 💻 An Aspiring FullStack Software Developer
 - 👯 I’m currently learning Frontend Development
 - 💬 Ask me anything 
