@@ -1,8 +1,7 @@
- <h1 align="center">Hi there👋🏼</h1>
-
-
+ <h2 align="center">Hi there👋🏼</h2>
 <!-- **kymalcansadoape/kymalcansadoape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
+ 
 - 🏫 A 2nd Year Computer Engineering Student at Tecnological Univeristy of the Philippines - Visayas
 - 💻 An Aspiring FullStack Software Developer
 - 👯 I’m currently learning Frontend Development
