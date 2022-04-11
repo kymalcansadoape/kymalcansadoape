@@ -12,3 +12,4 @@
 - ⚡ Fun fact: I love to go to the beach 🏖 
 <!-- - 🧑‍💻 Web Developer Intern at <a href="https://pocketdevs.ph" target="_blank">Pocketdevs</a> -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kymalcansadoape&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
