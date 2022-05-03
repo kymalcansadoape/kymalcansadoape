@@ -3,6 +3,7 @@
  -->
  
 - 🏫 A 2nd Year Computer Engineering Student at the Technological Univeristy of the Philippines - Visayas
+- 🧑‍💻 Web Developer Intern at <a href="https://pocketdevs.ph" target="_blank">Pocketdevs</a>
 - 💻 An Aspiring FullStack Software Developer
 - 👯 I’m currently learning Frontend Development
 - 💬 Ask me anything 
@@ -12,5 +13,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kymalcansadoape&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- - 🧑‍💻 Web Developer Intern at <a href="https://pocketdevs.ph" target="_blank">Pocketdevs</a> -->
+ 
