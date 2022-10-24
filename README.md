@@ -3,13 +3,13 @@
  -->
  
 - 🏫 A 3nd Year Computer Engineering Student at the Technological Univeristy of the Philippines - Visayas
-<!-- - 🧑‍💻 Web Developer Intern at <a href="https://pocketdevs.ph" target="_blank">Pocketdevs</a> -->
 - 💻 An Aspiring FullStack Software Developer
 - 👯 I’m currently learning Backend Development
 - 💬 Ask me anything 
 - 📫 How to reach me: kymalcansadoape@gmail.com
 - 😄 Pronouns: his/him
 - ⚡ Fun fact: I love to go to the beach 🏖 
+- <!-- - 🧑‍💻 Web Developer Intern at <a href="https://pocketdevs.ph" target="_blank">Pocketdevs</a> -->
 
  <h2 align="center">Languages and Tools</h2>
  <div align="center">
