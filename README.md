@@ -1,18 +1,18 @@
 # Hi there👋🏼
-🏫 A 3rd Year Computer Engineering Student at the Technological Univeristy of the Philippines - Visayas<br>🧑‍💻 Web Developer Intern at <a href="https://pocketdevs.ph/">Pocketdevs</a><br>💻 FullStack Software Developer<br>👯 I’m currently learning Backend Development<br>💬 Ask me anything<br>📫 How to reach me: kymalcansadoape@gmail.com<br>😄 Pronouns: his/him<br>⚡ Fun fact: I love to go to the beach 🏖
+🏫 A 3rd Year Computer Engineering Student at the Technological Univeristy of the Philippines - Visayas<br>🧑‍💻 Web Developer Intern at <a href="https://pocketdevs.ph/">Pocketdevs</a>
+<br>💻 FullStack Software Developer
+<br>💬 Ask me anything<br>📫 How to reach me: kymalcansadoape@gmail.com<br>😄 Pronouns: his/him<br>⚡ Fun fact: I love to go to the beach 🏖
 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Kym#9582) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/KymAlcansadoApe) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kymalcansadoape) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KymApe) 
 
 ## 💻 Tech Stack:
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
