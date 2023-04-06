@@ -1,6 +1,6 @@
 # Hi there👋🏼
 🏫 A 3rd Year Computer Engineering Student at the Technological Univeristy of the Philippines - Visayas<br>🧑‍💻 Web Developer Intern at <a href="https://pocketdevs.ph/">Pocketdevs</a>
-<br>💻 FullStack Software Developer
+<br>💻 FullStack Web Developer
 <br>💬 Ask me anything<br>📫 How to reach me: kymalcansadoape@gmail.com<br>😄 Pronouns: his/him<br>⚡ Fun fact: I love to go to the beach 🏖
 
 
