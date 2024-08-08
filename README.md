@@ -1,5 +1,5 @@
 # Hi there👋🏼
-🏫 A 4th Year Computer Engineering Student at the Technological University of the Philippines - Visayas
+🏫 Computer Engineering Graduate at the Technological University of the Philippines - Visayas
 <br>💻 Application Developer at <a href="https://pocketdevs.ph/">Pocketdevs</a>
 <br>👨🏼‍💻 Operations Associate at  <a href="https://base-404.com/">BASE404</a>
 <br>💬 Ask me anything<br>📫 How to reach me: kymalcansadoape@gmail.com
