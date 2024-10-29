@@ -1,7 +1,5 @@
 # Hi there👋🏼
 🏫 Computer Engineering Graduate at the Technological University of the Philippines - Visayas
-<br>💻 Application Developer at <a href="https://pocketdevs.ph/">Pocketdevs</a>
-<br>👨🏼‍💻 Operations Associate at  <a href="https://base-404.com/">BASE404</a>
 <br>💬 Ask me anything<br>📫 How to reach me: kymalcansadoape@gmail.com
 <br>😄 Pronouns: his/him
 <br>⚡ Fun fact: I love to go to the beach 🏖
